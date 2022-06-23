@@ -41,8 +41,6 @@ for line in t:
   print(value)
   values.append(value[0])
 
-print(titles[0])
-
 list = []
 
 for i in range(t.size):
